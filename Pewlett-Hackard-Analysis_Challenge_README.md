@@ -20,10 +20,12 @@ The Pewlett-Hackard analysis started with the creation of a database from six ta
 - If the 64% of the retiring employees that are senior staff plan to stick around to mentor the next generation of employees, then Pewlett Hackard should be in good hands for the transition. However, the analysis did not consider "qualified, retirement-ready employees" as mentor-eligible. Mentor-eligible were determined to be employees with birth dates in the year of 1965. If only these employees were considered, then Pewlett Hackard does not seem to be ready for the "silver tsunami". 
 
 ![Number of mentor eligible employees by title](Images/mentor_elgible_by_title.png)
+
 In summary, 90,398 employees at Pewlett Hackard are eligible to retire. However, only 1,549 employees are eligible for the mentorship program. Of the 1,549 employees, only 412 and 288 employees are Senior Staff and Senior Engineers, respectively. To compare with the retiring employees, there are 28,254 and 29,414 employees that are Senior Staff and Senior Engineers, respectively. It is assumed that senior staff would be able to mentor most title positions in the same department. If this is the case, there may not be enough mentors for te new generation of employees.
 
 ![Number of retiring employees by dept](Images/retiring_emp_by_dept.png)
-![Number of mentor eligible employees by dept](Images/mentor_eligible_by_dept)
+![Number of mentor eligible employees by dept](Images/mentor_eligible_by_dept.png)
+
 Breaking it down by department and how each department may be affected: 
 The Development (26%), Production (21%), and Sales (16%) departments will be most affected by the "silver tsunami". On a positive note, these three departments have the highest number of mentor-eligible employees: Development (26%), Production (21%), and Sales (16%). However, the percentages do not mean much since, for example, but not limited to, there are approximately 5,864% more retiring employees in the Development department than there are eligible mentors in the same deparmtent. 
 
